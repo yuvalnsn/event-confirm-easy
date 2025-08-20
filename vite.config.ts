@@ -19,5 +19,5 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: '/event-confirm-easy/', // This will be updated for your custom domain
+  base: '/', // This will be updated for your custom domain
 }));
