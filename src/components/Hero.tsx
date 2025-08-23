@@ -2,6 +2,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { useState } from "react";
 import { MessageCircle } from "lucide-react";
+import { Link } from "react-router-dom";
 
 const Hero = () => {
   const [email, setEmail] = useState("");
@@ -54,6 +55,28 @@ const Hero = () => {
           </div>
         </div>
       </div>
+      
+      {/* Footer */}
+      <footer className="absolute bottom-0 left-0 right-0 bg-card/80 backdrop-blur-sm border-t border-border">
+        <div className="container mx-auto px-6 py-4">
+          <div className="flex flex-col sm:flex-row justify-center items-center gap-4 text-sm text-muted-foreground">
+            <Link to="/privacy" className="hover:text-primary transition-colors">
+              מדיניות פרטיות
+            </Link>
+            <span className="hidden sm:inline">•</span>
+            <Link to="/terms" className="hover:text-primary transition-colors">
+              תנאי שימוש
+            </Link>
+            <span className="hidden sm:inline">•</span>
+            <Link to="/contact" className="hover:text-primary transition-colors">
+              צרו קשר
+            </Link>
+          </div>
+          <div className="text-center mt-2 text-xs text-muted-foreground">
+            © 2024 גסט ליסט אישורי הגעה בווטסאפ
+          </div>
+        </div>
+      </footer>
     </div>
   );
 };
