@@ -5,38 +5,38 @@ import { Heart, Building, Sparkles, Star, Users, Briefcase } from "lucide-react"
 const ServicesSection = () => {
   const services = [
     {
-      title: "אישורי הגעה לחתונה",
-      description: "הדרך המושלמת לנהל את רשימת האורחים לחתונה שלכם",
+      title: "חתונות ואירושין",
+      description: "תתחילו את החיים המשותפים בלי לחשוב על מי יגיע ומי לא",
       icon: Heart,
       color: "text-pink-500"
     },
     {
       title: "אירועי חברה",
-      description: "אירועים עסקיים מקצועיים עם מעקב מדויק אחר הגעות",
+      description: "ניהול מקצועי של אירועים עסקיים עם דוחות מפורטים",
       icon: Building,
       color: "text-blue-500"
     },
     {
-      title: "חינה ואירושין",
-      description: "חגיגות מסורתיות עם אישורי הגעה בסטייל",
+      title: "חינה וקידושין",
+      description: "חגיגות משפחתיות עם מעקב נוח אחר האורחים",
       icon: Sparkles,
       color: "text-purple-500"
     },
     {
       title: "בר/בת מצווה",
-      description: "חגיגת המצווה עם ניהול אורחים מקצועי",
+      description: "יום מיוחד לילד שלכם בלי הלחץ של ספירת אורחים",
       icon: Star,
       color: "text-yellow-500"
     },
     {
-      title: "כנסים ואירועים",
-      description: "אירועים גדולים עם אישורי הגעה ממוחשבים",
+      title: "כנסים וימי עיון",
+      description: "אירועים מקצועיים עם תכנון מדויק של מספר המשתתפים",
       icon: Users,
       color: "text-green-500"
     },
     {
-      title: "אירועים פרטיים",
-      description: "כל סוג אירוע פרטי עם מעקב מקצועי",
+      title: "מסיבות פרטיות",
+      description: "יום הולדת, חגיגת פרישה או כל אירוע שחלמתם עליו",
       icon: Briefcase,
       color: "text-orange-500"
     }
@@ -47,10 +47,10 @@ const ServicesSection = () => {
       <div className="container mx-auto px-6">
         <div className="text-center space-y-4 mb-16" dir="rtl">
           <h2 className="text-4xl lg:text-5xl font-bold text-foreground">
-            אז מה אתם חוגגים?
+            מתאים לכל סוג אירוע
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            הגיע הזמן לתכנן אירוע בלי בלגן ולהתעדכן מהמוזמנים שלכם בזמן אמת.
+            בין אם זה אירוע אינטימי או חגיגה גדולה - אנחנו נדאג שתדעו בדיוק מי מגיע
           </p>
         </div>
 

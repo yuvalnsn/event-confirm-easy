@@ -4,20 +4,20 @@ import { MessageCircle, Phone, CreditCard } from "lucide-react";
 const HowItWorksSection = () => {
   const features = [
     {
-      title: "אישורי הגעה בווטסאפ",
-      description: "האורחים מקבלים הזמנה מעוצבת ומאשרים הגעה ישירות בווטסאפ",
+      title: "קלות מקסימלית לאורחים",
+      description: "אישור הגעה בלחיצה אחת בווטסאפ - בלי צורך בהרשמה או הורדת אפליקציה",
       icon: MessageCircle,
       color: "text-green-500"
     },
     {
-      title: "שירות טלפוני אנושי",
-      description: "מוקד טלפוני אנושי לטיפול באורחים שמעדיפים לאשר בטלפון",
+      title: "גיבוי אנושי תמיד זמין",
+      description: "מוקד טלפוני מקצועי למי שמעדיף לדבר עם בן אדם אמיתי",
       icon: Phone,
       color: "text-blue-500"
     },
     {
-      title: "מתנות באשראי",
-      description: "האורחים יכולים לרכוש מתנות באשראי ישירות דרך המערכת",
+      title: "מתנות נוחות ומהירות",
+      description: "האורחים יכולים לבחור מתנה ולשלם בכרטיס אשראי ישירות במערכת",
       icon: CreditCard,
       color: "text-purple-500"
     }
@@ -28,10 +28,10 @@ const HowItWorksSection = () => {
       <div className="container mx-auto px-6">
         <div className="text-center space-y-4 mb-16" dir="rtl">
           <h2 className="text-4xl lg:text-5xl font-bold text-foreground">
-            איך זה עובד?
+            למה דווקא אצלנו?
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            שלושה שירותים מובילים שיהפכו את האירוע שלכם לחוויה מושלמת
+            שלושה יתרונות שיחסכו לכם זמן, כסף ועצבים
           </p>
         </div>
 

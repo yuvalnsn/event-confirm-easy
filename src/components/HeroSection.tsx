@@ -22,12 +22,12 @@ const HeroSection = () => {
           {/* Main Headline */}
           <div className="space-y-4" dir="rtl">
             <h1 className="text-5xl lg:text-7xl font-bold text-foreground">
-              הזמנה בסטייל
+              נגמרו לכם הדאגות 
               <br />
-              <span className="text-primary">אישור בקליק!</span>
+              <span className="text-primary">מהאירוע!</span>
             </h1>
             <h2 className="text-2xl lg:text-3xl text-muted-foreground">
-              הדרך הקלה לאורחים שלכם להגיד 'כן'.
+              תנו לאורחים לאשר הגעה בווטסאפ ותקבלו עדכונים בזמן אמת
             </h2>
           </div>
 
