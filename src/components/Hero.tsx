@@ -35,11 +35,14 @@ const Hero = () => {
             © 2024 גסט ליסט אישורי הגעה בווטסאפ
           </div>
           <div className="text-center mt-2 text-xs text-muted-foreground">
+            <div className="mb-1">
+              <span className="font-medium">בעלים: ניימן יובל חיים</span>
+            </div>
             <span>📧 info@guest-list.co.il</span>
             <span className="mx-2">•</span>
             <span>📞 054-218-2880</span>
             <span className="mx-2">•</span>
-            <span>📍 ההגנה 9, חולון</span>
+            <span>📍 דקר 7, לוד, מרכז 7135108</span>
           </div>
         </div>
       </footer>
