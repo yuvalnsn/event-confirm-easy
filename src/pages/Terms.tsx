@@ -16,9 +16,8 @@ const Terms = () => {
           
           <div className="space-y-6 text-muted-foreground">
             <section>
-              <h2 className="text-xl font-semibold text-foreground mb-4">פרטי החברה</h2>
+              <h2 className="text-xl font-semibold text-foreground mb-4">פרטי בעל השירות</h2>
               <div className="space-y-2">
-                <p><strong>שם החברה:</strong> גסט ליסט אישורי הגעה בווטסאפ</p>
                 <p><strong>בעלים:</strong> ניימן יובל חיים</p>
                 <p><strong>כתובת:</strong> דקר 7, לוד</p>
                 <p><strong>טלפון:</strong> 054-218-2880</p>
