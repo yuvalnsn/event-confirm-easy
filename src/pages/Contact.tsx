@@ -73,7 +73,7 @@ const Contact = () => {
                   <MapPin className="h-5 w-5 text-primary" />
                   <div>
                     <p className="text-foreground font-medium">כתובת</p>
-                    <p className="text-muted-foreground">דקר 7, לוד</p>
+                    <p className="text-muted-foreground">דקר 7, לוד, מרכז, 7135108, ישראל</p>
                   </div>
                 </div>
               </div>

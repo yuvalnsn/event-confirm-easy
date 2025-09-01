@@ -42,7 +42,7 @@ const Hero = () => {
             <span className="mx-2">•</span>
             <span>📞 054-218-2880</span>
             <span className="mx-2">•</span>
-            <span>📍 דקר 7, לוד</span>
+            <span>📍 דקר 7, לוד, מרכז, 7135108, ישראל</span>
           </div>
         </div>
       </footer>
