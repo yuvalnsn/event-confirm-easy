@@ -32,10 +32,10 @@ const Hero = () => {
             </Link>
           </div>
           <div className="text-center mt-4 text-xs text-muted-foreground">
-            גסט ליסט מופעל על ידי וויפ
+            גסט ליסט מופעל על ידי וויספ
           </div>
           <div className="text-center mt-4 text-xs text-muted-foreground">
-            Guest List Powered By Wipe
+            Guest List Powered By Wisp
           </div>
           <div className="text-center mt-2 text-xs text-muted-foreground">
             
