@@ -35,7 +35,7 @@ const Hero = () => {
             גסט ליסט מופעל על ידי וויפ
           </div>
           <div className="text-center mt-4 text-xs text-muted-foreground">
-            Guest list Powered By Wipe
+            Guest List Powered By Wipe
           </div>
           <div className="text-center mt-2 text-xs text-muted-foreground">
             <div className="mb-1">
