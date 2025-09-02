@@ -38,9 +38,7 @@ const Hero = () => {
             Guest List Powered By Wipe
           </div>
           <div className="text-center mt-2 text-xs text-muted-foreground">
-            <div className="mb-1">
-              <span className="font-medium">בעלים: וויפ</span>
-            </div>
+            
             <span>📧 info@guest-list.co.il</span>
             <span className="mx-2">•</span>
             <span>📞 054-218-2880</span>
