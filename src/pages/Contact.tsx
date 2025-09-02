@@ -42,10 +42,10 @@ const Contact = () => {
             <div className="space-y-6">
               <div className="flex items-center gap-4">
                 <MessageCircle className="h-6 w-6 text-primary" />
-                <div>
-                  <h3 className="font-semibold text-foreground">גסט ליסט</h3>
-                  <p className="text-muted-foreground">אישורי הגעה בווטסאפ</p>
-                </div>
+                  <div>
+                    <h3 className="font-semibold text-foreground">Guest List</h3>
+                    <p className="text-muted-foreground">אישורי הגעה בווטסאפ</p>
+                  </div>
               </div>
 
               <div className="space-y-4">

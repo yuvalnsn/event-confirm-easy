@@ -18,7 +18,7 @@ const Terms = () => {
             <section>
               <h2 className="text-xl font-semibold text-foreground mb-4">פרטי בעל השירות</h2>
               <div className="space-y-2">
-                <p><strong>בעלים:</strong> ניימן יובל חיים</p>
+                <p><strong>בעלים:</strong> וויפ</p>
                 <p><strong>כתובת:</strong> דקר 7, לוד, מרכז, 7135108, ישראל</p>
                 <p><strong>טלפון:</strong> 054-218-2880</p>
                 <p><strong>אימייל:</strong> info@guest-list.co.il</p>

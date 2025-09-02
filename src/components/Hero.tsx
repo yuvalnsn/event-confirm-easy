@@ -32,11 +32,11 @@ const Hero = () => {
             </Link>
           </div>
           <div className="text-center mt-4 text-xs text-muted-foreground">
-            © 2024 גסט ליסט אישורי הגעה בווטסאפ
+            Guest List מופעל על ידי וויפ
           </div>
           <div className="text-center mt-2 text-xs text-muted-foreground">
             <div className="mb-1">
-              <span className="font-medium">בעלים: ניימן יובל חיים</span>
+              <span className="font-medium">בעלים: וויפ</span>
             </div>
             <span>📧 info@guest-list.co.il</span>
             <span className="mx-2">•</span>
