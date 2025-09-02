@@ -10,7 +10,7 @@ const Header = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center gap-3">
             <MessageCircle className="h-8 w-8 text-primary" />
-            <span className="text-xl font-bold text-foreground">גסט ליסט</span>
+            <span className="text-xl font-bold text-foreground">Guest List</span>
           </Link>
 
           {/* Navigation */}
