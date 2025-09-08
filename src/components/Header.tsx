@@ -18,10 +18,10 @@ const Header = () => {
             <Link to="/" className="text-muted-foreground hover:text-primary transition-colors">
               דף הבית
             </Link>
-            <Link to="#services" className="text-muted-foreground hover:text-primary transition-colors">
+            <Link to="/services" className="text-muted-foreground hover:text-primary transition-colors">
               השירותים שלנו
             </Link>
-            <Link to="#how-it-works" className="text-muted-foreground hover:text-primary transition-colors">
+            <Link to="/how-it-works" className="text-muted-foreground hover:text-primary transition-colors">
               איך זה עובד
             </Link>
             <Link to="/contact" className="text-muted-foreground hover:text-primary transition-colors">
