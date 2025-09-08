@@ -38,12 +38,14 @@ const Hero = () => {
             Guest List Powered By Wisp
           </div>
           <div className="text-center mt-2 text-xs text-muted-foreground">
-            
             <span>📧 info@guest-list.co.il</span>
             <span className="mx-2">•</span>
             <span>📞 054-218-2880</span>
             <span className="mx-2">•</span>
             <span>📍 דקר 7, לוד, מרכז, 7135108, ישראל</span>
+          </div>
+          <div className="text-center mt-2 text-xs text-muted-foreground">
+            בעלים: ניימן יובל חיים
           </div>
         </div>
       </footer>
